@@ -1,11 +1,5 @@
-# basic options
-title: PowerCloud
-author: Sri Ram
-email: your-email@domain.com
-description: A wonderful github site
-twitter_username: sriramwriting
-github_username: sriram711
-
-# Build settings
-markdown: kramdown
+title: Time Machine theme
+description: Time Machine is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-time-machine
