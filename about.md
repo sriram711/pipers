@@ -1,7 +1,15 @@
 ---
-title: About
+layout: page
+title: Team Details
 ---
 
-# About this project
+This is an about page about this awesome site.
+Hope you love it!
 
-In a word: **Awesome!** Sri Ram
+Reasons:
+- its great.
+- its a test.
+
+## Other thoughts
+
+This is great.
