@@ -8,4 +8,4 @@ github_username: sriram711
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: time-machine
