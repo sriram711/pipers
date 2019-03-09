@@ -1,4 +1,4 @@
 title: PowerCloud
 description: An ultimate repository of dynamic happenings in the org.
-google_analytics:
+google_analytics: true
 theme: jekyll-theme-time-machine
