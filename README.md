@@ -1,7 +1,7 @@
 At a high level the page will have things like the following:
 List
-[Team introduction and goal](/about.md)
-[Team members](https://www.google.com)
-[Key projects](projects) 
-Key publications
-Contact the team
+1.[Team introduction and goal](/about.md)
+2.[Team members](https://www.google.com)
+3.[Key projects](projects) 
+4.Key publications
+5.Contact the team
