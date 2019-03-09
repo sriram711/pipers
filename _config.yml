@@ -1,1 +1,11 @@
-theme: jekyll-theme-dinky
+# basic options
+title: PowerCloud
+author: Sri Ram
+email: your-email@domain.com
+description: A wonderful github site
+twitter_username: sriramwriting
+github_username: sriram711
+
+# Build settings
+markdown: kramdown
+theme: minima
